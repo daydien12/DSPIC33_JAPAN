@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Torex0328_StateMachineTestA</name>
+            <name>Torex0104_StateMachineTestA</name>
+            <name>Torex1229_StateMachineTestA</name>
+            <name>Torex1014_StateMachineTestA</name>
+            <name>Torex1013_StateMachineTestA</name>
+            <name>Torex1012_StateMachineTestA</name>
+            <name>Torex0927_StateMachineTestA</name>
+            <name>Torex0924_StateMachineTestA</name>
+            <name>Torex0921_StateMachineTestB</name>
+            <name>Torex0921_StateMachineTestA</name>
+            <name>Torex0917_StateMachineTestA</name>
+            <name>Torex0915_StateMachineTestB</name>
+            <name>Torex0915_StateMachineTest</name>
+            <name>Torex0615</name>
+            <name>Torex0528</name>
+            <name>Torex052502</name>
+            <creation-uuid>2a0c0e85-dc06-4022-aa1a-f9c7e4d323f9</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
